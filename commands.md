@@ -93,6 +93,18 @@ Understanding each command and its purpose can help you set up Tailwind CSS seam
 
 
 
+# nothing working do this 
+
+If it's still not working, wipe node_modules and package-lock.json and reinstall:
+
+bash
+
+rm -rf node_modules package-lock.json
+npm install
+
+
+
+
 
 
 
